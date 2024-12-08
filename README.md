@@ -99,7 +99,7 @@ python experiments/evaluate.py
 ### 1. **Visual Comparison of Attention Matrices**
 Below is an example comparing GPT attention with MLP-simulated attention:
 
-![Attention Comparison](results/attention_comparison.png)
+![Attention Comparison](results.png)
 
 ### 2. **Inference Time Comparison**
 | Model                  | Inference Time per Run (ms) |
